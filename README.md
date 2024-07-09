@@ -11,6 +11,13 @@ Rapahel Lima:
 Lucas Gabriel:
 ### ```31rodrigueslg@gmail.com```
 
+
+## Software's para desenvolvimento:
+-  Designer => Canva
+-  Gestão de desenvolvimento => ClickUp
+- Copiled => ChatGPT, Geminiai
+-  Versionamento => GitHub
+
 ## Descrição do Projeto
 - Sistema de Agendamento de Cortes de Cabelo para a Barbearia CPCorte.
 - Página inicial com seções para Sobre nós, Serviços oferecidos, Tipos de cortes disponíveis e Contato.
